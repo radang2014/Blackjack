@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\ Person.java\r\n\ Purpose\:\ This\ class\ declares\ all\ instance\ variables\ and\ defines\ all\ methods\ of\ the\ Person\ class,\ allowing\ for\ the\ \r\n\ creation\ and\ manipulation\ of\ Person\ objects.\ In\ the\ context\ of\ Blackjack,\ the\ player\ and\ the\ dealer\ are\ both\ Person\ \r\n\ objects.\r\n\ Written\ by\:\ Randy\ Dang\r\n
+comment1.params=s\ d\ n
+comment1.target=Person(java.lang.String,\ double,\ int)
+comment2.params=n
+comment2.target=void\ setGamesWon(int)
+comment3.params=d
+comment3.target=void\ setAmountOfMoney(double)
+comment4.params=
+comment4.target=double\ getAmountOfMoney()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

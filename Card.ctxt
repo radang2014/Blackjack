@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\ Card.java\r\n\ Purpose\:\ This\ class\ declares\ all\ instance\ variables\ and\ defines\ all\ methods\ of\ the\ Card\ class,\ allowing\ for\ the\ \r\n\ creation\ and\ manipulation\ of\ Card\ objects.\ In\ the\ context\ of\ the\ Blackjack\ game,\ Cards\ are\ used\ by\ both\ the\ \r\n\ player\ and\ the\ dealer\ to\ try\ to\ get\ a\ total\ as\ close\ to\ 21\ as\ possible\ without\ busting.\r\n\ Written\ by\:\ Randy\ Dang\r\n
+comment1.params=s\ n\ nm
+comment1.target=Card(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getCardName()
+comment3.params=
+comment3.target=int\ getCardValue()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

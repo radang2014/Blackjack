@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\ Deck.java\r\n\ Purpose\:\ This\ class\ declares\ a\ deck\ of\ Cards\ (represented\ by\ an\ array)\ and\ defines\ all\ methods\ of\ the\ Deck\ class,\ \r\n\ allowing\ for\ the\ creation\ and\ manipulation\ of\ Deck\ objects.\ In\ the\ context\ of\ Blackjack,\ the\ player\ and\ dealer\ would\r\n\ pull\ from\ the\ Deck\ represented\ by\ an\ instance\ of\ this\ class.\r\n\ Written\ by\:\ Randy\ Dang\r\n
+comment1.params=
+comment1.target=Deck()
+comment2.params=
+comment2.target=Card[]\ getCardDeck()
+comment3.params=i
+comment3.target=java.lang.String\ getCard(int)
+comment4.params=i
+comment4.target=int\ getCardValue(int)
+comment5.params=
+comment5.target=void\ ShuffleDeck()
+numComments=6
